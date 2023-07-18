@@ -1,0 +1,7 @@
+node_modules
+dist
+public
+
+wps-addon-build
+wps-addon-jsplugins
+wps-addon-publish
